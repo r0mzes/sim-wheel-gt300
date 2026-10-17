@@ -1,0 +1,4 @@
+scripts/manifold.js
+scripts/manifold.wasm
+scripts/out/
+*.skb
